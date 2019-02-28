@@ -1,0 +1,176 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.square0 {
+  animation: App-logo-spin infinite 6.1s  linear;
+  height: 35px;
+  width: 35px;
+  background-color: rgb(0, 0, 0);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square {
+  animation: App-logo-spin infinite 6s  linear;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(14, 14, 14);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+  
+}
+.square2 {
+  animation: App-logo-spin infinite 5.9s  linear;
+  height: 70px;
+  width: 70px;
+  background-color: rgb(27, 27, 27);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square3 {
+  animation: App-logo-spin infinite 5.8s  linear;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(32, 32, 32);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+
+.square4{
+  animation: App-logo-spin infinite 5.7s   linear;
+  height: 145px;
+  width: 145px;
+  background-color: rgb(49, 49, 49);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square5{
+  animation: App-logo-spin infinite 5.6s   linear;
+  height: 220px;
+  width: 220px;
+  background-color: rgb(65, 65, 65);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+
+.square6{
+  animation: App-logo-spin infinite 5.5s  linear;
+  height: 310px;
+  width: 310px;
+  background-color: rgb(68, 68, 68);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square7{
+  animation: App-logo-spin infinite 5.4s  linear;
+    height: 430px;
+  width: 430px;
+  background-color: rgb(75, 75, 75);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square8{
+  animation: App-logo-spin infinite 5.3s  linear;
+  height: 600px;
+  width: 600px;
+  background-color: rgb(88, 88, 88);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square9{
+  animation: App-logo-spin infinite 5.2s  linear;
+  height: 850px;
+  width: 880px;
+  background-color: rgb(97, 96, 96);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square10{
+  animation: App-logo-spin infinite 5.1s  linear;
+  height: 1210px;
+  width: 1210px;
+  background-color: rgb(119, 117, 117);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square11{
+  animation: App-logo-spin infinite 5s  linear;
+  height: 1700px;
+  width: 1700px;
+  background-color: rgb(136, 135, 135);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
+.square12{
+  animation: App-logo-spin infinite 4.9s  linear;
+  height: 2400px;
+  width: 2400px;
+  background-color: rgb(165, 165, 165);
+  position: fixed;
+  bottom: 50;
+  right: 50;
+  left: 50;
+  top: 50;
+}
